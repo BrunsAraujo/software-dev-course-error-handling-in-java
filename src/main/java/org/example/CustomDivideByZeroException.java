@@ -29,6 +29,7 @@ public class CustomDivideByZeroException extends  Exception {
      *
      * @return The denominator of the failed division operation.
      */
+
     public double getB() {
         return b;
     }
